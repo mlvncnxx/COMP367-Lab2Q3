@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="COMP367-Lab2Q3" />
         <module name="COMP367_Lab2" />
       </profile>
     </annotationProcessing>
